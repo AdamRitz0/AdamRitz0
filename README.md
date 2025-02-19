@@ -1,3 +1,6 @@
+@AdamRitz0
+sramekadam@centrum.cz
+
 - 👋 Hi, I’m @AdamRitz0
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning HTML5, CSS, JS
