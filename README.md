@@ -7,7 +7,7 @@ sramekadam@centrum.cz
 - 💞️ I’m looking to collaborate on Competitive projects
 - 📫 How to reach me sramekadam@centrum.cz
 - 😄 Pronouns: Eidam
-- ⚡ Fun fact: I worked as motoring journalist.
+- ⚡ Fun fact: I worked as a motoring journalist.
 
 <!---
 AdamRitz0/AdamRitz0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
